@@ -7,6 +7,7 @@ A gas-optimized, non-custodial NFT marketplace developed for our final blockchai
 ## 👥 The Team
 * Abdul Raffay Qasim
 * Zakriya
+* Muhammad Hashaam Amjad
 
 ## ⚡ Core Features
 * **Non-Escrow:** Sellers keep NFTs in their wallets via `approve()`, saving huge gas fees.
